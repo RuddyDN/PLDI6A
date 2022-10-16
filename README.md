@@ -1,2 +1,2 @@
-# PLDI6A
-PLD
+# PartLibDom
+Partido Liberal Dominicano
